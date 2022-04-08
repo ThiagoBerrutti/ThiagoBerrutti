@@ -1,8 +1,13 @@
-### Hello! 
+### Hello, I'm Thiago Berrutti!
 
-I'm Thiago Berrutti, a brazilian .NET developer passionate with learning ways to write cleaner, elegant, reusable and self-documented code. 
+A .NET developer passionate with learning new ways to write cleaner, elegant, reusable and self-documented code. 
 
-Check my repositories for some demos of my work.
+Check my [Store Manager REST API demo repository](https://github.com/ThiagoBerrutti/store-manager) to see some of my work.
+
+Feel free to see my other public repositories, thanks!
+
+
+
 
 <!--
 **ThiagoBerrutti/ThiagoBerrutti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
