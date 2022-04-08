@@ -1,8 +1,7 @@
-### Hello! 
+Hello! I'm Thiago Berrutti, a .NET developer passionate with learning new ways to write clean, elegant, reusable and self-documented code to solve problems. 
 
-I'm Thiago Berrutti, a .NET developer passionate with learning new ways to write clean, elegant, reusable and self-documented code to solve problems. 
-
-I recommend you to check my [Store Manager REST API demo repository](https://github.com/ThiagoBerrutti/store-manager) to see some of my work.
+### Check my work:
+- [Store Manager](https://github.com/ThiagoBerrutti/store-manager): a REST API for store management
 
 Feel free to see my other public repositories, too. Thanks!
 
