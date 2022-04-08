@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hello! 
+
+I'm Thiago Berrutti, a brazilian .NET developer passionate with learning ways to write cleaner, elegant, reusable and self-documented code. 
+
+Check my repositories for some demos of my work.
 
 <!--
 **ThiagoBerrutti/ThiagoBerrutti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
