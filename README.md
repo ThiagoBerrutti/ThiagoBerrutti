@@ -1,4 +1,4 @@
-Hello! I'm Thiago Berrutti, a .NET developer passionate with learning new ways to write clean, elegant, reusable and self-documented code to solve problems. 
+Hello! I'm Thiago Berrutti, a Angular / .NET developer passionate with learning new ways to write clean, elegant, reusable and self-documented code to solve problems. 
 
 ### Check my work:
 - [Store Manager](https://github.com/ThiagoBerrutti/store-manager) : a REST API for store management
