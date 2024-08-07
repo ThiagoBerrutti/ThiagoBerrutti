@@ -1,7 +1,7 @@
 Hello! I'm Thiago Berrutti, an Android developer passionate with learning and creating elegant ways to solve problems. 
 
 ### Check my work:
-- [Algorithm Visualizer](https://github.com/ThiagoBerrutti/algorithmvisualizer): android app to visualize different sort algorithms, allowing to control them step by step. Made with Jetpack Compose
+- [Algorithm Visualizer](https://github.com/ThiagoBerrutti/algorithmvisualizer): Jetpack Compose app to visualize different sort algorithms, allowing to control them step by step.
 - [Elias Tattoo Landing Page (mvp)](https://github.com/ThiagoBerrutti/elias-tattoo-landing-page): mvp of a tattoo artist landing page. Made with Angular Universal
 - [Store Manager](https://github.com/ThiagoBerrutti/store-manager) : a REST API made in .NET for store management. 
 
