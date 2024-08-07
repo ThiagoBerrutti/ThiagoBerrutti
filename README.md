@@ -1,7 +1,9 @@
-Hello! I'm Thiago Berrutti, a Angular / .NET developer passionate with learning new ways to write clean, elegant, reusable and self-documented code to solve problems. 
+Hello! I'm Thiago Berrutti, an Android developer passionate with learning and creating elegant ways to solve problems. 
 
 ### Check my work:
-- [Store Manager](https://github.com/ThiagoBerrutti/store-manager) : a REST API for store management
+- [Algorithm Visualizer](https://github.com/ThiagoBerrutti/algorithmvisualizer): android app to visualize different sort algorithms, allowing to control them step by step. Made with Jetpack Compose
+- [Elias Tattoo Landing Page (mvp)](https://github.com/ThiagoBerrutti/elias-tattoo-landing-page): mvp of a tattoo artist landing page. Made with Angular Universal
+- [Store Manager](https://github.com/ThiagoBerrutti/store-manager) : a REST API made in .NET for store management. 
 
 Feel free to see my other public repositories, too. Thanks!
 
